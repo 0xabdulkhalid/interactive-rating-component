@@ -58,6 +58,20 @@
 <br>
 
 
+## Pagespeed Insights Score:
+  
+- ||
+  | :-----: |
+  |  <b>Overall score 99.5% for Both Mobile & Desktop</b> |
+  | |
+  | <img src='./images/pagespeed-insights-score.svg' alt='Scoreboard'> |
+  | |
+  | Check out [**Pagespeed Insights**](https://pagespeed.web.dev/analysis/https-0xabdulkhalid-github-io-interactive-rating-component/cugaaj3u85\?form_factor\=mobile) to get live score |
+  ||
+
+<br>
+
+
 ## The Challenge
 
 - The challenge is to build out this Interactive Rating Component and get it looking as close to the design as possible.
