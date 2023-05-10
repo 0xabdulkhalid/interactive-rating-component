@@ -51,7 +51,7 @@
 
 - |||
   | :----- | :----- |
-  | Solution URL: | [To be posted ⌛](#links) |
+  | Solution URL: | [INTERACTIVE RATING COMP 🎯 [ ACCESSIBLE - BEM - VANILLA CSS3 - ES6 ]](https://www.frontendmentor.io/solutions/interactive-rating-comp-accessible-bem-vanilla-css3-es6-MUxdCNOuxf) |
   | Live Site URL: | [https://0xabdulkhalid.github.io/interactive-rating-component/](https://0xabdulkhalid.github.io/interactive-rating-component/) |
   |||
 
