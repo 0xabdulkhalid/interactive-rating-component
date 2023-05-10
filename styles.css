@@ -92,7 +92,6 @@ main {
     width: 2.45rem;
     height: 2.45rem;
     font-size: .85rem;
-    cursor: pointer;
 }
 
 .main__rating-count {
@@ -103,6 +102,7 @@ main {
     background: var(--dark-blue);
     color: var(--light-grey);
     transition: all .4s ease;
+    cursor: pointer;
 }
 
 input[type="radio"] {
